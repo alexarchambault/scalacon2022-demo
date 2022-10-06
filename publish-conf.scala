@@ -1,0 +1,6 @@
+//> using publish.name "scalacon2022-demo"
+//> using publish.repository "central-s01"
+//> using publish.license "Apache-2.0"
+//> using publish.url "https://github.com/alexarchambault/scalacon2022-demo"
+//> using publish.versionControl "github:alexarchambault/scalacon2022-demo"
+//> using publish.developer "Alex Archambault||https://github.com/alexarchambault"
